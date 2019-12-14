@@ -1,0 +1,202 @@
+*{
+	padding: 0;
+	margin:0;
+}
+
+.header{
+	width: 77.5%;
+	background-color: #FA7DA7;
+	height: 100px;
+	box-shadow: 0 5px 10px;
+	margin-left: 22%;
+
+}
+img.logo {
+	height:80px; 
+	width:80px;	
+	margin-left: 20px;
+	margin-bottom: 10px;
+
+	
+}
+img.myuic {
+	height:100px; 
+	width:300px;	
+
+
+}
+
+.side-header{
+	width: 300px;
+	height: calc(100% + 60px);
+	border: 1px solid black;
+	position: absolute;
+	top: 0;
+	background-color: #FA7DA7;
+}
+
+.background{
+	width: 300px;
+	height: 200px;
+	border: 1px solid black;
+}
+
+.bg{
+	opacity: 0.9;
+	width: 300px;
+	height:200px;
+}
+
+.user{
+	width: 280px;
+	height: 150px;
+	position: absolute;
+	top: 5%;
+	left: 5%;
+}
+
+
+.avatar{
+	width: 80px;
+	height: 80px;
+	display: block;
+}
+
+.name,.student{
+	font: 17px Roboto, sans-serif;
+	line-height: 24px;
+	font-weight: 500;
+	color: #ffffff;
+	display: block;
+	
+
+}
+.home {
+	font-size: 20px;
+	height: 30px; 
+	width: 180px;
+	background-color: #FA7DA7;
+	color: black;
+	margin-top: 80px;
+	border: 1px  #FA7DA7;
+	margin-bottom:50px; 
+}
+.facultyevaluation {
+	font-size: 20px;
+	height: 30px; 
+	width: 180px;
+	background-color: #FA7DA7;
+	color: black;
+	border: 1px solid #FA7DA7;
+	margin-left: 50px;
+	 
+}
+.election{
+	font-size: 20px;
+	height: 30px; 
+	width: 180px;
+	background-color: #FA7DA7;
+	color: black;
+	border: 1px solid #FA7DA7;
+	margin-left:4px;
+	margin-top:50px; 
+	 
+}
+.personalizedlinks{
+	font-size: 20px;
+	height: 30px; 
+	width: 180px;
+	background-color: #FA7DA7;
+	color: black;
+	border: 1px solid #FA7DA7;
+	margin-left: 53px;
+	margin-top: 38px;
+	 
+}
+.studentinformation{
+	font-size: 20px;
+	height: 30px; 
+	width: 180px;
+	background-color: #FA7DA7;
+	color: black;
+	border: 1px solid #FA7DA7;
+	margin-left: 53px;
+	margin-top: 38px;
+}
+.onlineenrollment{
+	font-size: 20px;
+	height: 30px; 
+	width: 180px;
+	background-color: #FA7DA7;
+	color: black;
+	border: 1px solid #FA7DA7;
+	margin-left:45px;
+	margin-top: 38px;
+}
+.center{
+	
+	width: 80%;
+	background-color: #FA7DA7;
+	height: auto;
+	box-shadow: 0 5px 10px;
+	margin-left: 22%;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin: auto;
+	
+}
+.dash{
+	margin-top: 100px;
+	margin-left: 300px;
+	
+}
+.elements,.search{
+	font: 15px Roboto, sans-serif;
+	padding: 10px 10px 10px 10px;
+	
+}
+.elements img{
+	height: auto;
+	width: 45px;
+	margin-left: 20px;
+}
+.item{
+	display: inline-flex;
+
+}
+.categories{
+	text-align: center;
+}
+p{
+	margin-left: 8px;
+	margin-top: 17px;
+}
+.search-elements{
+	padding: 10px 10px 10px 10px;
+}
+
+input{
+	width: 300px;
+	height: 30px; 
+	border: none;
+  	border-bottom: 1px solid white;
+  	background-color:rgba(255, 255, 255, 0.1);
+  	text-align: center;
+  	font-size: 14px;
+  	padding: 10px 15px 10px 15px;
+}
+.search-elements button{
+	border-radius:2px;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+	background-color: #E7537C;
+	border-color: #E7537C;
+	font-family: Tw Cen MT;
+	color: white;
+	font-size: 16px;
+	padding: 10px 15px 10px 15px;
+	width: 110px;
+}
+
+	
